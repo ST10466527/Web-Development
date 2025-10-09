@@ -39,13 +39,14 @@ To promote second-hand clothing at very affordable prices, especially for:
 - **Footer:** Social media links.  
 
 ## Timeline and Milestones  
-
 - **20–21 Aug:** Project Planning & Content Collection  
 - **22–23 Aug:** Build Website Structure (HTML pages)  
 - **24 Aug:** Add Styling (CSS, layout, colors, fonts)  
 - **25 Aug:** Add Example Products + Contact Form (JavaScript validation optional)  
 - **26 Aug:** Final Testing & Adjustments  
-- **27 Aug:** Submission  
+- **27 Aug:** Submission
+## Content Research and Sourcing
+The development of Collection by Slindo was guided by thorough research into sustainable fashion practices, youth consumer behavior, and the cultural relevance of thrifting in South Africa. Resources such as Conscious Fashion (n.d.) provided insight into the environmental benefits of second-hand clothing, while platforms like Color Hunt and Realtime Colors informed the visual design choices to appeal to a youthful audience. The inclusion of references from Flaticon and Iconfinder ensured that iconography remained consistent and accessible. This research directly shaped the project’s goals, layout, and messaging—emphasizing affordability, eco-consciousness, and cultural pride. All sources have been cited using the Harvard Anglia referencing style to maintain academic integrity and transparency.
 
 ## Part 1 Details  
 
