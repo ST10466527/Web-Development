@@ -83,11 +83,13 @@ Home
 
 
  ## References 
- Color Hunt. (n.d.). Color Palettes. [online] Available at: https://colorhunt.co/ [Accessed: 20 August 2025].
-Conscious Fashion. (n.d.). Sustainable Fashion in South Africa. [online] Available at: https://consciousfashion.co/guides/south-africa-sustainable-fashion [Accessed: 18 August 2025].
-Flaticon. (n.d.). Free Icons. [online] Available at: https://www.flaticon.com/ [Accessed: 18 August 2025].
-Iconfinder. (n.d.). Free & Premium Icons. [online] Available at: https://www.iconfinder.com/ [Accessed: 19 August 2025].
-Realtime Colors. (n.d.). Color Scheme Tool. [online] Available at: https://www.realtimecolors.com/ [Accessed: 20 August 2025]. 
+- Color Hunt. (n.d.). *Color Palettes*. Available at: [https://colorhunt.co](https://colorhunt.co) [Accessed 20 Aug 2025].  
+- Conscious Fashion. (n.d.). *Sustainable Fashion in South Africa*. Available at: [https://consciousfashion.co/guides/south-africa-sustainable-fashion](https://consciousfashion.co/guides/south-africa-sustainable-fashion) [Accessed 18 Aug 2025].  
+- Flaticon. (n.d.). *Free Icons*. Available at: [https://www.flaticon.com](https://www.flaticon.com) [Accessed 18 Aug 2025].  
+- Iconfinder. (n.d.). *Free & Premium Icons*. Available at: [https://www.iconfinder.com](https://www.iconfinder.com) [Accessed 19 Aug 2025].  
+- Realtime Colors. (n.d.). *Color Scheme Tool*. Available at: [https://www.realtimecolors.com](https://www.realtimecolors.com) [Accessed 20 Aug 2025].
+
+
 ## How to View the Website  
 
 1. Download or clone this repository.  
