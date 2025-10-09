@@ -79,10 +79,19 @@ Home
 - Added: Home, About, Products, and Contact pages  
 - Added: Example product listings (Denim Jacket, Vintage Dress)  
 - Added: Contact form with Name, Email, Message fields  
-- Added: Footer with social media links  
-
-
- ## References 
+- Added: Footer with social media links
+- 2025-10-01 | Created initial HTML pages and navigation bar                               |
+- 2025-10-02 | Linked external CSS and added consistent layout using Flexbox               |
+- 2025-10-03 | Implemented responsive design with media queries and CSS Grid               |
+- 2025-10-04 | Added hero image, tagline, and structured homepage sections                 |
+- 2025-10-05 | Populated Products page with example items: Denim Jacket, Vintage Dress, Classic Shirt, Accessories |
+- 2025-10-06 | Updated About page with brand story and sustainability graphic              |
+- 2025-10-07 | Designed Contact page with form fields and footer links                     |
+- 2025-10-08 | Added accessibility features and semantic HTML                              |
+- 2025-10-09 | Updated README with content research, Harvard Anglia references, and wireframe visuals |
+- 2025-10-10 | Final layout adjustments, responsive testing, and screenshot evidence added |
+ 
+## References 
 - Color Hunt. (n.d.). *Color Palettes*. Available at: [https://colorhunt.co](https://colorhunt.co) [Accessed 20 Aug 2025].  
 - Conscious Fashion. (n.d.). *Sustainable Fashion in South Africa*. Available at: [https://consciousfashion.co/guides/south-africa-sustainable-fashion](https://consciousfashion.co/guides/south-africa-sustainable-fashion) [Accessed 18 Aug 2025].  
 - Flaticon. (n.d.). *Free Icons*. Available at: [https://www.flaticon.com](https://www.flaticon.com) [Accessed 18 Aug 2025].  
