@@ -36,8 +36,24 @@ To promote second-hand clothing at very affordable prices, especially for:
 - **About Page:** Mission, vision, brand story, and sustainability goals.  
 - **Contact Page:** Simple form for inquiries only (Name, Email, Message).
 - **Enquiry Page**: Form for volunteering, sponsorship, or product interest.
-- **Footer:** Social media links.  
+- **Footer:** Social media links.
 
+  ## JavaScript Functionality
+- Accordion toggle for FAQs  
+- Lightbox gallery for product images  
+- Dynamic search filter for product listings  
+- Enquiry form with client-side validation and response  
+- AJAX-style feedback without page reload
+
+ ## SEO Enhancements
+
+- Meta tags and descriptions for each page  
+- Alt text and descriptive filenames for images  
+- Clean URL structure and header tags  
+- `robots.txt` and `sitemap.xml` included  
+- Mobile-friendly layout and fast load times
+
+  
 ## Timeline and Milestones  
 - **20–21 Aug:** Project Planning & Content Collection  
 - **22–23 Aug:** Build Website Structure (HTML pages)  
@@ -78,20 +94,6 @@ Home
 ├── Enquiry
 └── Contact
 
-## JavaScript Functionality
-- Accordion toggle for FAQs  
-- Lightbox gallery for product images  
-- Dynamic search filter for product listings  
-- Enquiry form with client-side validation and response  
-- AJAX-style feedback without page reload
-
-  ## SEO Enhancements
-
-- Meta tags and descriptions for each page  
-- Alt text and descriptive filenames for images  
-- Clean URL structure and header tags  
-- `robots.txt` and `sitemap.xml` included  
-- Mobile-friendly layout and fast load times  
 
 ## Screenshot Evidence
 
@@ -125,7 +127,20 @@ v1.0.0 – 27 Aug 2025
 2025-11-19 | Added JavaScript interactivity: accordion, lightbox, dynamic filtering  
 2025-11-19 | Implemented enquiry form validation and dynamic response  
 2025-11-19 | Optimized SEO: meta tags, alt text, robots.txt, sitemap.xml  
-2025-11-19 | Final README rebuild with full rubric alignment  
+2025-11-19 | Final README rebuild with full rubric alignment
+
+## Screenshot Evidence
+
+Screenshots are stored in the `screenshots/` folder and include:
+- Desktop layout  
+- Mobile layout  
+- Lightbox gallery  
+- Form validation feedback  
+Example:
+```markdown
+![Home Page Desktop](screenshots/home-desktop.png)
+![Product Page Mobile](screenshots/products-mobile.png)
+
  
 ## References 
 - Color Hunt. (n.d.). *Color Palettes*. Available at: [https://colorhunt.co](https://colorhunt.co) [Accessed 20 Aug 2025].  
