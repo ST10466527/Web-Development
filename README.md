@@ -129,12 +129,7 @@ v1.0.0 – 27 Aug 2025
 2025-11-19 | Optimized SEO: meta tags, alt text, robots.txt, sitemap.xml  
 2025-11-19 | Final README rebuild with full rubric alignment
 
-Screenshots are stored in the `screenshots/` folder and include:
-- Desktop layout  
-- Mobile layout  
-- Lightbox gallery  
-- Form validation feedback  
-Example:
+
 ```markdown
 ![Home Page Desktop](screenshots/home-desktop.png)
 ![Product Page Mobile](screenshots/products-mobile.png)
