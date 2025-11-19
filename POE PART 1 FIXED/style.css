@@ -87,4 +87,44 @@ footer {
   text-align: center;
   padding: 15px;
   margin-top: 20px;
+
+}
+/* Responsive Breakpoints */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    padding: 10px;
+  }
+  nav ul {
+    flex-direction: column;
+  }
+  img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    font-size: 14px;
+  }
+  header h1 {
+    font-size: 1.5rem;
+  }
+}
+
+/* Pseudo-classes */
+button:hover,
+a:hover {
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+input:focus,
+textarea:focus {
+  border: 2px solid #0077cc;
+}
+
+nav li:first-child {
+  font-weight: bold;
 }
