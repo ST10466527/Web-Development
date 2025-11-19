@@ -7,7 +7,7 @@
 - **Group:** 1  
 
 ## Project Overview  
-**Collection by Slindo** is a simple informational website designed to promote sustainable and affordable fashion through thrift clothing.It introduces the concept of thrifting, showcases example second-hand products, and provides a contact form for potential buyers or sellers.
+**Collection by Slindo** is a simple informational website designed to promote sustainable and affordable fashion through thrift clothing. It introduces the concept of thrifting, showcases example second-hand products, and provides a contact form for potential buyers or sellers.
  
 
 Unlike a full e-commerce site, this platform does not support online shopping or payments. Instead, it focuses on:  
@@ -129,8 +129,6 @@ v1.0.0 – 27 Aug 2025
 2025-11-19 | Optimized SEO: meta tags, alt text, robots.txt, sitemap.xml  
 2025-11-19 | Final README rebuild with full rubric alignment
 
-## Screenshot Evidence
-
 Screenshots are stored in the `screenshots/` folder and include:
 - Desktop layout  
 - Mobile layout  
@@ -155,4 +153,4 @@ Example:
 1. Download or clone this repository.  
 2. Open the folder in **Visual Studio Code** (or any code editor).  
 3. Open `index.html` in your web browser.  
-4. Navigate using the menu (Home, About, Products, Contact).  
+4. Navigate using the menu (Home, About, Products, Contact, Enquiry).  
