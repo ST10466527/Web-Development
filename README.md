@@ -7,9 +7,8 @@
 - **Group:** 1  
 
 ## Project Overview  
-**Collection by Slindo** is a simple informational website designed to promote sustainable and affordable fashion through thrift clothing.  
-
-The project introduces the concept of thrifting, showcases example second-hand products, and provides a contact form for potential buyers or sellers to get in touch.  
+**Collection by Slindo** is a simple informational website designed to promote sustainable and affordable fashion through thrift clothing.It introduces the concept of thrifting, showcases example second-hand products, and provides a contact form for potential buyers or sellers.
+ 
 
 Unlike a full e-commerce site, this platform does not support online shopping or payments. Instead, it focuses on:  
 - Raising awareness about second-hand fashion.  
@@ -35,7 +34,8 @@ To promote second-hand clothing at very affordable prices, especially for:
 - **Home Page:** Introduction to thrift store concept.  
 - **Products Page:** Static example products (images + descriptions).  
 - **About Page:** Mission, vision, brand story, and sustainability goals.  
-- **Contact Page:** Simple form for inquiries only (Name, Email, Message).  
+- **Contact Page:** Simple form for inquiries only (Name, Email, Message).
+- **Enquiry Page**: Form for volunteering, sponsorship, or product interest.
 - **Footer:** Social media links.  
 
 ## Timeline and Milestones  
@@ -45,6 +45,9 @@ To promote second-hand clothing at very affordable prices, especially for:
 - **25 Aug:** Add Example Products + Contact Form (JavaScript validation optional)  
 - **26 Aug:** Final Testing & Adjustments  
 - **27 Aug:** Submission
+
+
+ 
 ## Content Research and Sourcing
 The development of Collection by Slindo was guided by thorough research into sustainable fashion practices, youth consumer behavior, and the cultural relevance of thrifting in South Africa. Resources such as Conscious Fashion (n.d.) provided insight into the environmental benefits of second-hand clothing, while platforms like Color Hunt and Realtime Colors informed the visual design choices to appeal to a youthful audience. The inclusion of references from Flaticon and Iconfinder ensured that iconography remained consistent and accessible. This research directly shaped the project’s goals, layout, and messaging—emphasizing affordability, eco-consciousness, and cultural pride. All sources have been cited using the Harvard Anglia referencing style to maintain academic integrity and transparency.
 
@@ -72,24 +75,57 @@ Home
 │ ├── Product Example 2: Retro Jeans
 │ └── Product Example 3: Accessories
 │ ├── Product Example 4: Classic Shirts
+├── Enquiry
 └── Contact
-## Changelog  
 
-**v1.0.0 – 27 Aug 2025**  
+## JavaScript Functionality
+- Accordion toggle for FAQs  
+- Lightbox gallery for product images  
+- Dynamic search filter for product listings  
+- Enquiry form with client-side validation and response  
+- AJAX-style feedback without page reload
+
+  ## SEO Enhancements
+
+- Meta tags and descriptions for each page  
+- Alt text and descriptive filenames for images  
+- Clean URL structure and header tags  
+- `robots.txt` and `sitemap.xml` included  
+- Mobile-friendly layout and fast load times  
+
+## Screenshot Evidence
+
+Screenshots are stored in the `screenshots/` folder and include:
+
+- Desktop layout  
+- Mobile layout  
+- Lightbox gallery  
+- Form validation feedback  
+
+
+## Changelog
+
+```markdown
+v1.0.0 – 27 Aug 2025  
 - Added: Home, About, Products, and Contact pages  
 - Added: Example product listings (Denim Jacket, Vintage Dress)  
 - Added: Contact form with Name, Email, Message fields  
-- Added: Footer with social media links
-- 2025-10-01 | Created initial HTML pages and navigation bar                               |
-- 2025-10-02 | Linked external CSS and added consistent layout using Flexbox               |
-- 2025-10-03 | Implemented responsive design with media queries and CSS Grid               |
-- 2025-10-04 | Added hero image, tagline, and structured homepage sections                 |
-- 2025-10-05 | Populated Products page with example items: Denim Jacket, Vintage Dress, Classic Shirt, Accessories |
-- 2025-10-06 | Updated About page with brand story and sustainability graphic              |
-- 2025-10-07 | Designed Contact page with form fields and footer links                     |
-- 2025-10-08 | Added accessibility features and semantic HTML                              |
-- 2025-10-09 | Updated README with content research, Harvard Anglia references, and wireframe visuals |
-- 2025-10-10 | Final layout adjustments, responsive testing, and screenshot evidence added |
+- Added: Footer with social media links  
+
+2025-10-01 | Created initial HTML pages and navigation bar  
+2025-10-02 | Linked external CSS and added consistent layout using Flexbox  
+2025-10-03 | Implemented responsive design with media queries and CSS Grid  
+2025-10-04 | Added hero image, tagline, and structured homepage sections  
+2025-10-05 | Populated Products page with example items: Denim Jacket, Vintage Dress, Classic Shirt, Accessories  
+2025-10-06 | Updated About page with brand story and sustainability graphic  
+2025-10-07 | Designed Contact page with form fields and footer links  
+2025-10-08 | Added accessibility features and semantic HTML  
+2025-10-09 | Updated README with content research, Harvard Anglia references, and wireframe visuals  
+2025-10-10 | Final layout adjustments, responsive testing, and screenshot evidence added  
+2025-11-19 | Added JavaScript interactivity: accordion, lightbox, dynamic filtering  
+2025-11-19 | Implemented enquiry form validation and dynamic response  
+2025-11-19 | Optimized SEO: meta tags, alt text, robots.txt, sitemap.xml  
+2025-11-19 | Final README rebuild with full rubric alignment  
  
 ## References 
 - Color Hunt. (n.d.). *Color Palettes*. Available at: [https://colorhunt.co](https://colorhunt.co) [Accessed 20 Aug 2025].  
