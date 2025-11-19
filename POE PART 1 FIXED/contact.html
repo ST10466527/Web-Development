@@ -2,40 +2,34 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="description" content="Contact Collection by Slindo for general enquiries">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Contact - Collection by Slindo</title>
+  <title>Contact Us</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <nav>
-      <a href="index.html">Home</a>
-      <a href="about.html">About</a>
-      <a href="products.html">Products</a>
-      <a href="contact.html">Contact</a>
-    </nav>
+    <h1>Contact Us</h1>
   </header>
 
   <main>
-    <h2>Get in Touch With Us!</h2>
-    <form action="#" method="post">
+    <form action="submit.html" method="post">
       <label for="name">Name:</label>
-      <input type="text" id="name" name="name">
+      <input type="text" id="name" name="name" required>
 
       <label for="email">Email:</label>
-      <input type="email" id="email" name="email">
+      <input type="email" id="email" name="email" required>
+
+      <label for="phone">Phone:</label>
+      <input type="tel" id="phone" name="phone" pattern="\d{10}" required>
 
       <label for="message">Message:</label>
-      <textarea id="message" name="message"></textarea>
+      <textarea id="message" name="message" required></textarea>
 
-      <button type="submit">Submit</button>
+      <button type="submit">Send</button>
     </form>
   </main>
 
-  <footer>
-    <p>&copy; 2025 Collection by Slindo</p>
-  </footer>
-   <script src="script.js"></script>
+  <script src="script.js"></script>
 </body>
-
 </html>
